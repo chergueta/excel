@@ -1,0 +1,9 @@
+[18-Sep-2017 00:18:08 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2844
+[18-Sep-2017 00:18:08 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 3948
+[18-Sep-2017 00:18:08 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2739
+[18-Sep-2017 00:22:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2844
+[18-Sep-2017 00:22:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 3948
+[18-Sep-2017 00:22:07 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2739
+[18-Sep-2017 01:19:47 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2844
+[18-Sep-2017 01:19:47 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 3948
+[18-Sep-2017 01:19:47 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/dlinkcom/public_html/excel/wp-includes/class-phpmailer.php on line 2739
